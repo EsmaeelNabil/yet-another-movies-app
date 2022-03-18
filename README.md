@@ -1,6 +1,6 @@
 A            |  A
 :-------------------------:|:-------------------------:
-![](./art/list-screen.png)  |  ![](./art/details-screen.png)
+![](./art/list-screen.png)  |  ![](art/details--screen.png)
 
 #### Overview
 -------------
